@@ -1,0 +1,13 @@
+C:\Users\alexa\source\repos\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\Users\alexa\source\repos\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\alexa\source\repos\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\alexa\source\repos\ChatApp\ChatApp\bin\Debug\SimpleTCP.dll
+C:\Users\alexa\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\Users\alexa\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.Server.resources
+C:\Users\alexa\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CopyComplete
+C:\Users\alexa\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\alexa\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
